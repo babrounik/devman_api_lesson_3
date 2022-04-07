@@ -31,9 +31,9 @@ python3 main.py
 ```
 python main.py -l https://google.com
 ```
-![script started](https://github.com/babrounik/devman_api_lesson_3/blob/master/img/example_get_shorten.jpg?raw=true)
+![script started](https://github.com/babrounik/devman_api_lesson_3/blob/main/img/example_get_shorten.jpg?raw=true)
 #### How to get clicks:
 ```
 python main.py -l bit.ly/2CCtscC
 ```
-![script started](https://github.com/babrounik/devman_api_lesson_3/blob/master/img/example_get_clicks.jpg?raw=true)
+![script started](https://github.com/babrounik/devman_api_lesson_3/blob/main/img/example_get_clicks.jpg?raw=true)
