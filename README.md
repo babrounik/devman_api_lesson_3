@@ -23,6 +23,8 @@ pip3 install pipenv
 pipenv shell $(which python3)
 git clone https://github.com/babrounik/devman_api_lesson_3.git
 pipenv install -r requirements.txt
+echo 'export BITLY_TOKEN=INSERT_YOUR_VALUE' >> ./.env
+echo 'export CUSTOM_DOMAIN=INSERT_YOUR_VALUE' >> ./.env
 python3 main.py
 ```
 ### Examples
